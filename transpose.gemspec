@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["jasonayre@gmail.com"]
   spec.summary       = %q{Transpose (or transform) one object into another}
   spec.description   = %q{Object transformation via simple hash mapping of attributes. Great for transforming remote api objects into local models and vice versa}
-  spec.homepage      = "http://github.com/transpose"
+  spec.homepage      = "http://github.com/jasonayre/transpose"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
